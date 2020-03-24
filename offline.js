@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1585063616,
+	"version": 1585064102,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,12 +25,12 @@
 		"images/334657_comingsooncomingsoonpnglogo-sheet0.png",
 		"images/salenomobarak-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/flatdark-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png",
-		"68 emlaaa.pdf"
+		"loading-logo.png"
 	]
 }
